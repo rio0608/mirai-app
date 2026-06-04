@@ -1,0 +1,6 @@
+{
+  "name": "マジカル・リズム・カプセル！",
+  "description": "初音ミク「マジカルミライ 2026」プログラミング・コンテスト応募作品。リズムに乗って弾く（フリック）プレイヤースキルで排出確率が変動する、新感覚の音ゲー×ガチャガチャWebアプリ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
